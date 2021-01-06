@@ -1,3 +1,21 @@
+
+
+<!-- I ran commands -->
+
+ npm install --save redux react-redux @reduxjs/toolkit
+
+ npm install --save axios react-hook-form yup dayjs markdown-to-jsx sweetalert2
+
+ npm install history react-router-dom@next
+
+ npm install --save-dev miragejs @types/react-redux @types/react-router-dom @types/yup @types/markdown-to-jsx
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
